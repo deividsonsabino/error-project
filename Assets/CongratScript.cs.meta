@@ -3,7 +3,9 @@ guid: ea592611f109e5a409b58c32556f7122
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Text: {instanceID: 0}
+  - SparksParticles: {fileID: 198000012368742472, guid: 78b71003e8b357d4bbf89c8b5e5e4f0e, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
